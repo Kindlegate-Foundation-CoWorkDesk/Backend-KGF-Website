@@ -1,0 +1,11 @@
+vendor/
+*.htaccess
+*.phpunit.xml
+
+configuration/
+*.settings.php
+*.sites.php
+
+personal-files/
+*.idea
+*.gitconfig
