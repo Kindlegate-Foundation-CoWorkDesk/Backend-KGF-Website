@@ -6,7 +6,7 @@ use Drupal\Core\Security\TrustedCallbackInterface;
 use Drupal\Core\Url;
 
 /**
- * After build callbacks for the gin theme.
+ * After build callbacks for the gin theme...
  */
 class GinAfterBuild implements TrustedCallbackInterface {
 
